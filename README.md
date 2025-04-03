@@ -56,4 +56,4 @@ Contributions to RoboMAT are welcome! If you’d like to add new features, impro
 
 ### License
 
-This project is licensed under the CC0-1.0 License. See the [LICENSE](licence.txt) file for more details.
+This project is licensed under the CC0-1.0 License. See the [LICENSE](LICENSE) file for more details.
